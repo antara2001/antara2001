@@ -28,5 +28,5 @@
 
 
 
-<p align="center">&nbsp;<img  width="450px"  height="350px"  src="https://github-readme-stats.vercel.app/api?username=antara2001&amp;show_icons=true&amp;theme=radical&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" alt="antara2001" /> &nbsp; &nbsp; &nbsp; <img  width="450px" height="350px"  src="https://github-readme-streak-stats.herokuapp.com/?user=antara2001&amp;show_icons=true&amp;theme=radical&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" /></p>
+<p align="center">&nbsp;<img  width="400px"  height="350px"  src="https://github-readme-stats.vercel.app/api?username=antara2001&amp;show_icons=true&amp;theme=radical&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" alt="antara2001" /> &nbsp; &nbsp; &nbsp; <img  width="400px" height="350px"  src="https://github-readme-streak-stats.herokuapp.com/?user=antara2001&amp;show_icons=true&amp;theme=radical&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width:100%;" /></p>
 
