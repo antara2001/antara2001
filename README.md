@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently pursuing **B.Tech degree in Information Technology from BPPIMT.**
 
-- 🌱 I’m currently learning **Kotlin.**
-
 - 👨‍💻 Visit my website at → [https://antara2001.github.io/Portfolio-Website/](https://antara2001.github.io/Portfolio-Website/)
 
 - 💬 Ask me about **anyting.**
